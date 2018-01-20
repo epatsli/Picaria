@@ -1,0 +1,9 @@
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\bin\x64\Debug\SI - Picaria.exe
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\bin\x64\Debug\SI - Picaria.pdb
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\bin\x64\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\bin\x64\Debug\SwiPlCs.dll
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\obj\x64\Debug\SIPicaria.Form1.resources
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\obj\x64\Debug\SIPicaria.Properties.Resources.resources
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\obj\x64\Debug\SI - Picaria.csproj.GenerateResource.Cache
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\obj\x64\Debug\SI - Picaria.exe
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\obj\x64\Debug\SI - Picaria.pdb

@@ -1,0 +1,42 @@
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\obj\x86\Release\ResolveAssemblyReference.cache
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\obj\x86\Release\SIPicaria.Form1.resources
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\obj\x86\Release\SIPicaria.Properties.Resources.resources
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\obj\x86\Release\GenerateResource.read.1.tlog
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\obj\x86\Release\GenerateResource.write.1.tlog
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\bin\Release\SI - Picaria.exe
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\bin\Release\SI - Picaria.pdb
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\bin\Release\SwiPlCs.dll
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\obj\x86\Release\SI - Picaria.exe
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projekt\SI - Picaria\SI - Picaria\obj\x86\Release\SI - Picaria.pdb
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\obj\x86\Release\ResolveAssemblyReference.cache
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\obj\x86\Release\SIPicaria.Form1.resources
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\obj\x86\Release\SIPicaria.Properties.Resources.resources
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\obj\x86\Release\GenerateResource.read.1.tlog
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\obj\x86\Release\GenerateResource.write.1.tlog
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\obj\x86\Release\SI - Picaria.exe
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\bin\Release\SI - Picaria.exe
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\bin\Release\SI - Picaria.pdb
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\bin\Release\SwiPlCs.dll
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok2\SI - Picaria\SI - Picaria\obj\x86\Release\SI - Picaria.pdb
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\bin\Release\SI - Picaria.exe
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\bin\Release\SI - Picaria.pdb
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\bin\Release\SwiPlCs.dll
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\obj\x86\Release\ResolveAssemblyReference.cache
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\obj\x86\Release\SIPicaria.Form1.resources
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\obj\x86\Release\SIPicaria.Properties.Resources.resources
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\obj\x86\Release\GenerateResource.read.1.tlog
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\obj\x86\Release\GenerateResource.write.1.tlog
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\obj\x86\Release\SI - Picaria.exe
+D:\09 POLIBUDA\IV rok VII semestr\Sztuczna inteligencja\projek_ok_pl\SI - Picaria\SI - Picaria\obj\x86\Release\SI - Picaria.pdb
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\obj\x86\Release\SI - Picaria.exe
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\obj\x86\Release\SI - Picaria.pdb
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\bin\Release\SI - Picaria.exe
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\bin\Release\SI - Picaria.pdb
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\bin\Release\SwiPlCs.dll
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\obj\x86\Release\SIPicaria.Form1.resources
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\obj\x86\Release\SIPicaria.Properties.Resources.resources
+C:\Users\patrycja\Desktop\Kod\SI - Picaria\obj\x86\Release\SI - Picaria.csproj.GenerateResource.Cache
